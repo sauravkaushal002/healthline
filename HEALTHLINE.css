@@ -1,0 +1,171 @@
+body{
+    margin: auto;
+    background-color: beige;
+border-radius: 10px;
+}
+.container{
+    background-color: black;
+    height: 49px;
+    position: fixed;
+    width: 100%;
+    
+    
+}
+p:hover{
+    color: blueviolet;
+}
+.internal{
+    display: flex;
+    right: 39px;
+    position: fixed;
+    margin: -15px;
+    gap: 77px;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: large;
+}
+.logo{
+    margin: 132px;
+    font-size: x-large;
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: solid;
+    
+}
+.image1{
+    width: 41%;
+    margin-top: 85px;
+    height: 458px;
+    margin-left: 152px;
+    margin-right: 20px;
+    border-radius: 5px;}
+.image2{
+    height: 458px;
+    width: 36%;
+    border-radius: 5px;
+    margin-top: 85px;
+    margin-right: 100px;
+}
+p{
+    font-size: xx-large;
+    color: black;
+    /* margin-left:43px; */
+}
+.links{
+    display: flex;
+    padding: 14px;
+    gap: 33px;
+    margin-left: 127px;
+}
+.links p{
+    font-size: larger;
+    padding: 33px;
+    
+}
+h1{
+   margin-left: 149px;
+font-size: 22px
+}
+h2{
+    margin-left: 149px;
+    font-size: 22px
+    }
+.social{    height: 257px;
+    margin-left: 152px;
+    padding-top: 18px;
+
+}
+.social h3{margin-top: -279px;
+    margin-left: 660px;
+    font-size: 28px;
+    font-family: auto;
+}
+.social p{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 661px;
+    top: 1024px;
+}
+#email{
+    margin-left: 708px;
+    margin-top: 115px;
+    opacity: 50%;
+}
+ h4{
+    margin-top: 66px;
+    font-size: larger;
+margin-left: 150px;
+}
+    
+.more img{
+    /* margin-left: 150px; */
+    border-radius: 5px;
+    gap:33px
+}
+.more p{
+    font-size: revert;
+    /* margin-left: 151px; */
+    margin-top: 1px;
+}
+.more{
+    display: flex;
+    /* gap: 33px; */
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-around;
+}
+h5{
+    margin-top: 26px;
+    font-size: larger;
+margin-left: 166px;
+}
+.hn{
+    display: flex;
+    /* margin-left: 156px; */
+    justify-content: space-around;
+    align-items: center;
+}
+.hn p:hover {
+    color: blue;
+}
+.hn p{
+    font-size: large;
+}
+h6{    margin-left: 183px;
+    font-size: xx-large;
+    font-family: fantasy;
+    color: black;
+}
+.footer .p1{
+    margin-left: 186px;
+    margin-top: -58px;
+}
+.p2{
+    font-size: medium;
+    margin-left: 186px;
+}
+.sk{
+    margin-left: 186px;
+}
+section{
+    background-color: aliceblue;
+}
+
+.p3{
+    display: flex;
+    justify-content: center;
+}
+.section{
+    background-color: black;
+    margin-top: 10px;
+
+}
+ .heading{margin-left: 187px;
+
+}
+.paragraph{
+    display: flex;
+    justify-content: space-around;
+}
